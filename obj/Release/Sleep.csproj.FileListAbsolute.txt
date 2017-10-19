@@ -1,0 +1,8 @@
+C:\Users\serb\Documents\Visual Studio 2015\Projects\Sleep\Sleep\bin\Release\Sleep.exe.config
+C:\Users\serb\Documents\Visual Studio 2015\Projects\Sleep\Sleep\bin\Release\Sleep.exe
+C:\Users\serb\Documents\Visual Studio 2015\Projects\Sleep\Sleep\bin\Release\Sleep.pdb
+C:\Users\serb\Documents\Visual Studio 2015\Projects\Sleep\Sleep\obj\Release\Sleep.Form1.resources
+C:\Users\serb\Documents\Visual Studio 2015\Projects\Sleep\Sleep\obj\Release\Sleep.Properties.Resources.resources
+C:\Users\serb\Documents\Visual Studio 2015\Projects\Sleep\Sleep\obj\Release\Sleep.csproj.GenerateResource.Cache
+C:\Users\serb\Documents\Visual Studio 2015\Projects\Sleep\Sleep\obj\Release\Sleep.exe
+C:\Users\serb\Documents\Visual Studio 2015\Projects\Sleep\Sleep\obj\Release\Sleep.pdb

@@ -1,0 +1,9 @@
+c:\users\serb\documents\visual studio 2015\Projects\Sleep\Sleep\bin\Debug\Sleep.exe.config
+c:\Users\serb\Documents\Visual Studio 2015\Projects\Sleep\Sleep\bin\Debug\Sleep.exe
+c:\Users\serb\Documents\Visual Studio 2015\Projects\Sleep\Sleep\bin\Debug\Sleep.pdb
+c:\Users\serb\Documents\Visual Studio 2015\Projects\Sleep\Sleep\obj\Debug\Sleep.csprojResolveAssemblyReference.cache
+c:\Users\serb\Documents\Visual Studio 2015\Projects\Sleep\Sleep\obj\Debug\Sleep.Form1.resources
+c:\Users\serb\Documents\Visual Studio 2015\Projects\Sleep\Sleep\obj\Debug\Sleep.Properties.Resources.resources
+c:\Users\serb\Documents\Visual Studio 2015\Projects\Sleep\Sleep\obj\Debug\Sleep.csproj.GenerateResource.Cache
+c:\Users\serb\Documents\Visual Studio 2015\Projects\Sleep\Sleep\obj\Debug\Sleep.exe
+c:\Users\serb\Documents\Visual Studio 2015\Projects\Sleep\Sleep\obj\Debug\Sleep.pdb
